@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "893150508468",
+    "firebase_url": "https://lary-9f5b5.firebaseio.com",
+    "project_id": "lary-9f5b5",
+    "storage_bucket": "lary-9f5b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893150508468:android:53a015559f487eba",
+        "android_client_info": {
+          "package_name": "com.sandev.lary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893150508468-vshtr64q6jhopimd977rvfokh0035270.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrPHnBuxQUPPEG5dJhR6MDZQvRvKfkkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
